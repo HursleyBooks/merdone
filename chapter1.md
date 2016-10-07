@@ -15,7 +15,7 @@ Evidence in the village today of habitation from the Saxon period is limited to 
 
 When the castle was built at Merdon a number of local inhabitants would have been conscripted to work on its construction, and some would have later served there. It would seem that generally the villagers were dependent on agriculture and would have been beholden to the Bishop of Winchester for the rights to farm in the manor. A varying number of village workers would have been employed either at the castle or (after 1413) at the site of the present house, according to the ﬂuctuating fortunes of the Manor Lords. The villagers’ prosperity was affected by the Manor Lords’ attitudes which ranged from uncompromisingly feudal to benevolent after
 
-**[Insert image] Aerial view of Hursley village looking south, c 1946**
+![Aerial view of Hursley village looking south, c 1946](hursley-village-aerial-view.jpg)
 
 1718\. Since then the more enlightened owners of the Manor who owned most of the Village have helped Hursley keep its old-world character right up to the 21st century. The owners’ control was such that, in 1905, the estate employed some 200 people - probably most of the breadwinners of the Village.
 
