@@ -1,11 +1,11 @@
 # Merdone - The History of Hursley Park
 
-Compiled by D Len Peach
-Edited by Nick Goodall
+Compiled by D Len Peach  
+Edited by Nick Goodall  
 Layout by Grafix Advertising and Design
 
-Published by the Communications and External Programmes Department
-IBM United Kingdom Laboratories
+Published by the Communications and External Programmes Department  
+IBM United Kingdom Laboratories  
 Hursley Park
 
 Printed in England by Gabare Limited, Winchester.
