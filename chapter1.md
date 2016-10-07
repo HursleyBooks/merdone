@@ -22,3 +22,10 @@ When the castle was built at Merdon a number of local inhabitants would have bee
 In Anglo-Saxon times it seems Merdon was spelled in a variety of ways, and by the 13th and 14th centuries it settled as ‘Merdone’, as shown in the stylised logo title on the cover of this book. When the ‘e’ fell off the end is not 25 clear, but Merdon is now in common usage.
 
 Hursley has always been part of the Manor of Merdon, and because there has not been a consistent manor house down the years, confusion has arisen over the roles played by the Merdon Castle and Hursley Park House
+
+
+sites. Up to the year 637, the manor lands were controlled as such from the Merdon Castle site, where there was a manor and village in Saxon times. For the next 915 years (637 -1552), control lay with the Bishops of Winchester. From 1559 to 1600, the manor rights rested at the Great Lodge in Hursley Park, and were then transferred to the house called Merdon Manor, the precise location of which is in doubt. It could either have been a farmhouse that once stood within the castle earth works, or the older or original part of the present Merdon Manor, less than 0.6 miles (1km) to the west of Merdon Castle. The manor rights rested at Merdon Manor only
+
+**[Insert image] South end of Hursley village**
+
+until 1630 when they reverted back to the site of Hursley Park House, remaining there till 1940, when the Second World War caused the manor rights to be transferred to Merdon Manor (now an Edwardian house with a much older wing, west of the castle). In 1984 Merdon Manor and the Hursley Estate (everything except the House and 100 acres of parkland around the House) were sold separately, and now the manor rights such as they are rest at the estate ofﬁce. The present owners of Hursley Estate are the St Martin’s Property and Investment Company Limited, a subsidiary of the Kuwait Investment Corporation.
