@@ -15,7 +15,8 @@ Evidence in the village today of habitation from the Saxon period is limited to 
 
 When the castle was built at Merdon a number of local inhabitants would have been conscripted to work on its construction, and some would have later served there. It would seem that generally the villagers were dependent on agriculture and would have been beholden to the Bishop of Winchester for the rights to farm in the manor. A varying number of village workers would have been employed either at the castle or (after 1413) at the site of the present house, according to the ﬂuctuating fortunes of the Manor Lords. The villagers’ prosperity was affected by the Manor Lords’ attitudes which ranged from uncompromisingly feudal to benevolent after
 
-![Aerial view of Hursley village looking south, c 1946](hursley-village-aerial-view.jpg)
+![Photo](hursley-village-aerial-view.jpg)
+Aerial view of Hursley village looking south, c 1946
 
 1718\. Since then the more enlightened owners of the Manor who owned most of the Village have helped Hursley keep its old-world character right up to the 21st century. The owners’ control was such that, in 1905, the estate employed some 200 people - probably most of the breadwinners of the Village.
 
@@ -26,7 +27,8 @@ Hursley has always been part of the Manor of Merdon, and because there has not b
 
 sites. Up to the year 637, the manor lands were controlled as such from the Merdon Castle site, where there was a manor and village in Saxon times. For the next 915 years (637 -1552), control lay with the Bishops of Winchester. From 1559 to 1600, the manor rights rested at the Great Lodge in Hursley Park, and were then transferred to the house called Merdon Manor, the precise location of which is in doubt. It could either have been a farmhouse that once stood within the castle earth works, or the older or original part of the present Merdon Manor, less than 0.6 miles (1km) to the west of Merdon Castle. The manor rights rested at Merdon Manor only
 
-**[Insert image] South end of Hursley village**
+![Photo](hursley-village-south-end.jpg)
+South end of Hursley village
 
 until 1630 when they reverted back to the site of Hursley Park House, remaining there till 1940, when the Second World War caused the manor rights to be transferred to Merdon Manor (now an Edwardian house with a much older wing, west of the castle). In 1984 Merdon Manor and the Hursley Estate (everything except the House and 100 acres of parkland around the House) were sold separately, and now the manor rights such as they are rest at the estate ofﬁce. The present owners of Hursley Estate are the St Martin’s Property and Investment Company Limited, a subsidiary of the Kuwait Investment Corporation.
 
