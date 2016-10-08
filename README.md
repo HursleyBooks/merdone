@@ -16,7 +16,7 @@ This is an expansion and revision of the ﬁrst edition which was published in 1
 
 All rights reserved. Except as permitted under the United States Copyright Act of 1976, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a data base or retrieval system, without the prior permission of the publisher.
 
-## PREFACE
+## Preface
 
 By its very nature, data is history, and although generally thought of in an academic or business context, the built in historical signiﬁcance does increase with time. Libraries, archives and computers store data in prescribed ways, and we tend to forget that data can also be locked up in old or ruined buildings and in the ground. For recent events the human memory is a key source, but does require validation. Earlier information has surfaced, and probably will continue to, from the most unlikely places, and at the most unexpected of times, to add yet more colour to an already colourful history of one of England’s most beautiful and ancient parks.
 
