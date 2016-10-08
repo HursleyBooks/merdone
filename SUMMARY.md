@@ -56,5 +56,5 @@
  - HMS Hursley
 
 * The Changed Order
-* Tunnels at Hursley
+* [Tunnels at Hursley](tunnels.md)
 * Hursley Park’s Grounds and Gardens
