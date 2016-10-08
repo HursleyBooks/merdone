@@ -3,13 +3,12 @@
 For over 200 years there have been stories
 concerning the existence of tunnels in and
 around Hursley Park. Some of these stories
-
-![Diagram](c-block-tunnels.jpg)
-Diagram of C Block tunnel system
-
 are clearly fanciful, though there is enough
 evidence of some real tunnels to see What
 could have inspired some of the tales.
+
+![Diagram](c-block-tunnels.jpg)
+Diagram of C Block tunnel system
 
 Stories of tunnels extending over 200 yards or
 metres in length have to be treated with
@@ -105,17 +104,17 @@ the level. This was the answer, as the steps
 leading down into the tunnels started at this
 point.
 
+ 
+![Photo](original-steps.jpg)
+Original steps down to C Block tunnels
+
+
 Around the perimeter of Hursley House, with
 a spur going out under the stables, there is a
 service tunnel that was constructed of brick in
 1902/03 when the House was extended and
 remodelled for Sir George Cooper. The spur
 was to take the sewage out to the cesspools
-
- 
-![Photo](original-steps.jpg)
-Original steps down to C Block tunnels
-
 adjacent to the Hursley Park Cricket Field,
 now the site of a copse. These cesspools were
 in use up to the early sixties, and one assumes
@@ -130,7 +129,6 @@ accessible.
 The last known tunnel is one that is believed .
 to have run from the King’s Head public house
 in Hursley village to the lych-gate cottage by
-
 the church. The only evidence for this are the
 now bricked up ends visible in the respective
 cellars. What state the tunnel is in between
@@ -172,7 +170,6 @@ descend some 60 feet (18 metres) to get under
 the dry moat, with a similar climb up to the
 castle’s inner circle ground level again. Also
 such a route for the tunnel would make it a
-
 perfect sump for any water seeping through,
 and render it impassable at different times,
 with the moat itself naturally directing any
