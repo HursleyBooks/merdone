@@ -1,6 +1,6 @@
-# Summary
+# Merdone - The History of Hursley Park
 
-* [Hursley Village](chapter1.md)
+* [Hursley Village](hursley-village.md)
 * Time Chart 
 * Chronological List of Events
 * Map
@@ -55,7 +55,6 @@
 * Reminiscences, the Source of Legends
 * HMS Hursley
 
----
 
 * The Changed Order
 * Tunnels at Hursley
