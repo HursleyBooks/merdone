@@ -5,7 +5,7 @@
 * Chronological List of Events
 * Map
 
-* [Merdon Castle Site up to 1441](README.md)
+* [Merdon Castle Site up to 1441](merdon-castle/README.md)
  - [Earliest History](merdon-castle/earliest-history.md)
  - [The Saxon Period](merdon-castle/saxon-period.md)
  - [Stephen-Matilda Wars](merdon-castle/stephen-matilda-wars.md)
