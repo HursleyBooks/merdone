@@ -6,7 +6,7 @@
 * Map
 
 ## Merdon Castle Site up to 1441
-* Earliest History
+* [Earliest History](merdon-castle/earliest-history.md)
 * The Saxon Period
 * Stephen-Matilda Wars
 * The Castle
