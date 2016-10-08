@@ -7,11 +7,11 @@
 
 ## Merdon Castle Site up to 1441
 * [Earliest History](merdon-castle/earliest-history.md)
-* The Saxon Period
-* Stephen-Matilda Wars
-* The Castle
-* Castle Remains
-* Pipe Rolls
+* [The Saxon Period](merdon-history/saxon-period.md)
+* [Stephen-Matilda Wars](merdon-castle/stephen-matilda-wars.md)
+* [The Castle](merdon-castle/the-castle.md)
+* [Castle Remains](merdon-castle/castle-remains.md)
+* [Pipe Rolls](merdon-castle/pipe-rolls.md)
 
 ## Hursley Park House Site 1413 - 1718
 * The ‘Logge’
