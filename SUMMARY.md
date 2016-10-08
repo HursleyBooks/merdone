@@ -7,7 +7,7 @@
 
 ## Merdon Castle Site up to 1441
 * [Earliest History](merdon-castle/earliest-history.md)
-* [The Saxon Period](merdon-history/saxon-period.md)
+* [The Saxon Period](merdon-castle/saxon-period.md)
 * [Stephen-Matilda Wars](merdon-castle/stephen-matilda-wars.md)
 * [The Castle](merdon-castle/the-castle.md)
 * [Castle Remains](merdon-castle/castle-remains.md)
