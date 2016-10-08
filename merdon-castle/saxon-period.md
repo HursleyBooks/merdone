@@ -186,3 +186,91 @@ victory over the Danes at Edington in
 Wiltshire in the early summer of that year. In
 this battle everything that could go wrong for
 the Danes did, and Alfred’s forces ‘put them
+
+to ﬂight’, pursuing them to Chippenham. Here
+Alfred laid siege for a fortnight before the
+humiliated Danes surrendered, promising to
+leave Alfred’s kingdom, and the Danish King
+Guthrum even sought Christian baptism.
+
+If Guthrum had sought Christian baptism as
+an expedient measure to save his life then he
+was in for a surprise, for Alfred and his
+Bishop counselled him and his followers for
+many days leaving them no doubt as to What
+the Christian faith was all about. Later at one
+baptismal ceremony at Aller, near Athelney,
+Alfred stood sponsor to Guthrum and twenty
+nine of his chiefs and received them into the
+Christian faith. (Guthrum’s baptismal name
+was Athelstan.) Any cynical conjecture about
+this miraculous turn of events is answered by
+
+ 
+
+Saxon silver penny of King Eghbert
+( diameter 2 cms, 0.8 ins)
+
+the resulting transformed, civilised, and
+stable society that was re-established in an
+amazingly short space of time after a century
+of considerable bloodshed.
+
+Alfred’s arrangement known as ‘The Peace of
+Wedmore’ was accepted, and the Danes kept
+to allotted territory in East Anglia. A revolt by
+some of these Danes brought about a new
+treaty known as ‘Alfred and Guthrum’s Peace’.
+The whole peace process was helped by the
+rebuilt church previously devastated by the
+Danes, who readily took to the new faith, so
+that in a very short period they were absorbed
+into the life and structure of the country.
+There were always problems caused by other
+Danes invading from the Continent, but
+Alfred’s administration, treaties and much
+
+ 
+
+Saxon silver penny (reverse)
+
+
+
+Remaining features of Saxon village of Merdon
+
+
+improved army and navy met the needs of
+these occasions.
+
+Alfred’s situation was similar to many Old
+Testament youngest sons, through whom
+God’s blessing was delivered. His military
+successes and his high standard of
+administration are well known, but it was by
+virtue of the fact that he followed God’s ways,
+not the ways of men, that England regained
+her strong social and spiritual position. It also
+later earned him the meritorious and unique
+title of ‘The Great’ which, had it been used in
+his lifetime, would have certainly caused him
+embarrassment.
+
+In recent years several Saxon relics have been
+unearthed in the Park, and south of the house
+a silver penny minted in the reign of King
+Egberht, grand-father of King Alfred, was
+found. This dates from between 802 and 839,
+and was probably minted in Canterbury. Less
+than forty such pennies are known to exist.
+Another important ﬁnd was a garnet disc
+brooch of the pagan period, found at the
+Ampﬁeld end of the Park. From other parts of
+the Park a spear and shield boss have been
+found. Between the last Anglo-Saxon
+Chronicles reference to Merdon in 871, and up
+to the crossroads of English history, the
+Norman Conquest in 1066, there is a gap in
+references and clues about Merdon. In fact,
+except for the site, and very brief references to
+it, we know very little about its development
+or what it looked like during this period.
