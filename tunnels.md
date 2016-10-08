@@ -52,7 +52,6 @@ Of the three known tunnel systems, the one
 which was by far the most interesting and
 puzzling involved a system found when the
 footings for C Block were being excavated.
-
 (See illustration on opposite page.) It
 consisted of three loops of tunnels linking
 together in a triangular form, with the two
@@ -66,9 +65,9 @@ average tunnel width of just over 3 feet (1 m),
 with a height of 10 feet (3 m).
 
  
-
-Opening int C Block tunnels, with old B
-Black in the background.
+![Photo](c-block-tunnel-opening.jpg)
+Opening into C Block tunnels, with old B
+Block in the background.
 
 
 The assumption that this was an unﬁnished ice
@@ -114,7 +113,7 @@ remodelled for Sir George Cooper. The spur
 was to take the sewage out to the cesspools
 
  
-
+![Photo](original-steps.jpg)
 Original steps down to C Block tunnels
 
 adjacent to the Hursley Park Cricket Field,
