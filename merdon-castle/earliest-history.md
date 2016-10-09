@@ -1,8 +1,83 @@
-## EARLIEST HISTORY
+## Earliest History
 
-Before the development of the Hursley Park  8 House site (in 1413) the area’s dominance  9 came from the site of Merdon on which stood, 10 at various times, a hill fort, a manor and 11 village, and later a castle. This site is about 12 0.62 miles (1 km) due north of the present 13 Park House. 14 15 The Merdon Castle site is likely to have been 16 inhabited from prehistoric times, though food- 17 questing Palaeolithic man left few obvious 18 traces of his nomadic existence. Although 19 Neolithic artefacts are easily overlooked 20 against a background of abundant natural 21 ﬂint, two Acheulian (of the Palaeolithic period 22 in Europe) hand axes were found in the area 23 in 1969. However, right before our eyes exists 24 undeniable proof that the Bronze Age ‘Beaker’ 25 folk (immigrants from the continent with their 26 distinctive beaker pottery) lived here as a 27 settled community from about 2,000 years BC, 28 and possibly earlier. Their burial mounds, 29 round barrows, can be seen today in the park; 30 these are marked as ‘tumuli’ on Ordnance 31 Survey maps. 32 33 The name Merdon implies a fortiﬁcation of 34 the ancient Britons, those Celtic inhabitants 35 who saw the Romans arrive and depart. The 36 imaginative Celts usually chose both personal 37 and place names with descriptive aptitude. 38 ‘Mere-dun’ - the ‘fort of the mire’ - could not 39 have been more opposite, unless it related to 40 boggy land 1 mile (1.6 km) to the south. The 41 ‘Dun’ part of the name signiﬁes a fortiﬁed 42 place, though ‘Mer’ (or Mere) is less certain, 43 probably referring to the meres or mires that 44 the topography has indicated to have 45 46 47 48 surrounded much of the cleared upland slopes 49 at that time. Another possibility is that it is a 50 later preﬁx (signifying a defended ‘march’ or 51 boundary), which has supplanted or is a 52 corruption of an earlier name. 53 54 The fort’s position on a chalk hill would not 55 have let it retain for long any rainwater for a 56 moat, yet its earthen ramparts and deep ditch 57 with a thorn and bramble barrier backed up 58 by stout palings (substantial posts with 59 pointed tops butted against each other) 60 provided a good inner line of defence. On the 61 southern side was the supporting agricultural 62 land and probably cattle enclosures with 63 ditches and earth banks with some sort of 64 paling fence on top, with the mires way 65 beyond - a useful outer line of defence to deter 66 invasion on that side of the fort. This was 67 typical of hill forts of the period. This land on 68 the southern side was developed into a deer 69 park of some note by 1500. 70 71 The beneﬁts of such a substantial and secure 72 site would have ensured continuous
+Before the development of the Hursley Park
+House site (in 1413) the area’s dominance
+came from the site of Merdon on which stood,
+at various times, a hill fort, a manor and
+village, and later a castle. This site is about
+0.62 miles (1 km) due north of the present
+Park House.
 
-73 habitation for a population of about seventy. 74 This Iron Age fort enclosed about ten acres 75 (3.7 hectares), and if size can be related to 76 importance, then this was a fort of some 77 signiﬁcance. Its deep ditches backed up by 78 high earth banks, extending to over 2,500 feet 79 (760 m) in length, show the investment in 80 time and effort. Only a proper archaeological 81 excavation can reveal the original depth of the 82 ditches and height of the defence banks. The 83 present day excellence of what are substantial 84 banks and ditches may be by courtesy of the 85 builders of the Norman castle, who could have 86 enhanced this outer Iron Age ring to double 87 their defences on their more vulnerable sides.
+The Merdon Castle site is likely to have been
+inhabited from prehistoric times, though food-
+questing Palaeolithic man left few obvious
+traces of his nomadic existence. Although
+Neolithic artefacts are easily overlooked
+against a background of abundant natural
+ﬂint, two Acheulian (of the Palaeolithic period
+in Europe) hand axes were found in the area
+in 1969. However, right before our eyes exists
+undeniable proof that the Bronze Age ‘Beaker’
+folk (immigrants from the continent with their
+distinctive beaker pottery) lived here as a
+settled community from about 2,000 years BC,
+and possibly earlier. Their burial mounds,
+round barrows, can be seen today in the park;
+these are marked as ‘tumuli’ on Ordnance
+Survey maps.
+
+The name Merdon implies a fortiﬁcation of
+the ancient Britons, those Celtic inhabitants
+who saw the Romans arrive and depart. The
+imaginative Celts usually chose both personal
+and place names with descriptive aptitude.
+‘Mere-dun’ - the ‘fort of the mire’ - could not
+have been more opposite, unless it related to
+boggy land 1 mile (1.6 km) to the south. The
+‘Dun’ part of the name signiﬁes a fortiﬁed
+place, though ‘Mer’ (or Mere) is less certain,
+probably referring to the meres or mires that
+the topography has indicated to have
+surrounded much of the cleared upland slopes
+at that time. Another possibility is that it is a
+later preﬁx (signifying a defended ‘march’ or
+boundary), which has supplanted or is a
+corruption of an earlier name.
+
+The fort’s position on a chalk hill would not
+have let it retain for long any rainwater for a
+moat, yet its earthen ramparts and deep ditch
+with a thorn and bramble barrier backed up
+by stout palings (substantial posts with
+pointed tops butted against each other)
+provided a good inner line of defence. On the
+southern side was the supporting agricultural
+land and probably cattle enclosures with
+ditches and earth banks with some sort of
+paling fence on top, with the mires way
+beyond - a useful outer line of defence to deter
+invasion on that side of the fort. This was
+typical of hill forts of the period. This land on
+the southern side was developed into a deer
+park of some note by 1500.
+
+The beneﬁts of such a substantial and secure
+site would have ensured continuous
+habitation for a population of about seventy.
+This Iron Age fort enclosed about ten acres
+(3.7 hectares), and if size can be related to
+importance, then this was a fort of some
+signiﬁcance. Its deep ditches backed up by
+high earth banks, extending to over 2,500 feet
+(760 m) in length, show the investment in
+time and effort. Only a proper archaeological
+excavation can reveal the original depth of the
+ditches and height of the defence banks. The
+present day excellence of what are substantial
+banks and ditches may be by courtesy of the
+builders of the Norman castle, who could have
+enhanced this outer Iron Age ring to double
+their defences on their more vulnerable sides.
 
 Today these banks are up to 16 feet (5 metres)
 in height, and so the question of later
@@ -45,7 +120,5 @@ site there are the remains of Roman villas,
 and 0.62 miles (1 km) to the south of Merdon,
 the Park House site has yielded some Roman
 coins and one signiﬁcant Saxon silver penny,
-
 as tantalising evidence of man’s past
 involvement.
-
