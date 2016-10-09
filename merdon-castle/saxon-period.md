@@ -1,4 +1,4 @@
-## THE SAXON PERIOD
+## The Saxon Period
 
 Exactly when the Saxons came to Merdon is
 unknown, probably around the year 500, but
@@ -77,7 +77,6 @@ later.
 For the year 635, the Anglo Saxon Chronicles
 record the conversion to Christianity of
 Cynegils, and Birinus baptising him. As a
-
 testimony of his new faith in Jesus Christ,
 Cynegils gave the heart of his kingdom to God
 with his gift of lands to the Bishop and
@@ -119,7 +118,6 @@ Cyneheard, brother of Sigeberht, who had
 been deposed by Cynewulf. Cynewulf is
 interred in Winchester Cathedral in one of
 the mortuary chests on the lintels of the side-
-
 screens in the chancel. Except for this brief
 mention of a saga of Saxon power struggles,
 we have no other information about this
@@ -128,12 +126,9 @@ Age archaeological remains, subsequent
 development of this site will also have
 obliterated nearly all Saxon remains. The
 next reference to Merdon relates to
-
 the invasion by the Danes over a
 hundred years later, which tested
-
 the cohesion of Saxon society under
-
 the leadership of Alfred the Great.
 
 Due to time—wrought spelling
@@ -156,16 +151,18 @@ around Winchester resulting in
 much bloodshed and loss of life. One
 such battle is believed to have taken
 place at or near what is now
-
-J ermyn’s Lane at Ampﬁeld, where a
+Jermyn’s Lane at Ampﬁeld, where a
 culvert passes under the road, about 0.6 miles
 (1 km) beyond Outwood Lodge in Hursley
 Park, on the south-western side. This now
 innocuous place has the name ‘Bloody Bridge’
 as a reminder of the gruesome past.
 
-It is worth noting that the Saxons had
+![Photo](saxon-brooch.jpg)
+*Saxon Garnet disk brooch.
+Photo: Winchester City Museum Services.*
 
+It is worth noting that the Saxons had
 suffered about a century of sporadic and
 bloody battles at the hands of the invading
 Danes, and England was in a very poor state,
@@ -173,12 +170,6 @@ with the only hope of deliverance resting in
 the new King Alfred, who had succeeded to
 the monarchy after his three elder brothers
 had died. Over the winter of 878 Alfred took
-
- 
-
-Saxon Garnet disk brooch.
-Photo: Winchester City Museum Services.
-
 refuge at Athelney in Somerset, and by
 prayerful and careful planning, he secretly
 assembled an army and gained a decisive
@@ -186,7 +177,6 @@ victory over the Danes at Edington in
 Wiltshire in the early summer of that year. In
 this battle everything that could go wrong for
 the Danes did, and Alfred’s forces ‘put them
-
 to ﬂight’, pursuing them to Chippenham. Here
 Alfred laid siege for a fortnight before the
 humiliated Danes surrendered, promising to
@@ -205,16 +195,17 @@ nine of his chiefs and received them into the
 Christian faith. (Guthrum’s baptismal name
 was Athelstan.) Any cynical conjecture about
 this miraculous turn of events is answered by
-
- 
-
-Saxon silver penny of King Eghbert
-( diameter 2 cms, 0.8 ins)
-
 the resulting transformed, civilised, and
 stable society that was re-established in an
 amazingly short space of time after a century
 of considerable bloodshed.
+
+![Photo](saxon-penny.jpg)
+*Saxon silver penny of King Eghbert
+( diameter 2 cms, 0.8 ins)*
+
+![Photo](saxon-penny-reverse.jpg)
+*Saxon silver penny (reverse)*
 
 Alfred’s arrangement known as ‘The Peace of
 Wedmore’ was accepted, and the Danes kept
@@ -229,18 +220,12 @@ into the life and structure of the country.
 There were always problems caused by other
 Danes invading from the Continent, but
 Alfred’s administration, treaties and much
-
- 
-
-Saxon silver penny (reverse)
-
-
-
-Remaining features of Saxon village of Merdon
-
-
 improved army and navy met the needs of
 these occasions.
+
+
+![Diagram](saxon-village.jpg)
+*Remaining features of Saxon village of Merdon*
 
 Alfred’s situation was similar to many Old
 Testament youngest sons, through whom
