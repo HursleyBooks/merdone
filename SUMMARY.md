@@ -55,6 +55,6 @@
  - Reminiscences, the Source of Legends
  - HMS Hursley
 
-* The Changed Order
+* [The Changed Order](changed-order.md)
 * [Tunnels at Hursley](tunnels.md)
 * [Hursley Park’s Grounds and Gardens](gardens.md)
