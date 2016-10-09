@@ -1,4 +1,4 @@
-# CHRONOLOGICAL LIST OF EVENTS
+# Chronological List of Events
 
 | Event | Date | Owner of Manor Rights |
 | -- | -- | -- |
