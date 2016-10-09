@@ -52,5 +52,5 @@
 * [The Changed Order](changed-ordermd.md)
 * [Tunnels at Hursley](tunnels.md)
 * [Hursley Park’s Grounds and Gardens](gardens.md)
-* [Bibliography](bibliography.md)
+* [Bibliography](bibliographymd.md)
 
