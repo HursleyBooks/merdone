@@ -18,7 +18,33 @@
 | Tudor Great Lodge erected | c. 1554 | Sir Philip Hoby |
 | Mary Tudor revokes surrender of church lands and a house called Merdon Manor comes into existence | c. 1555 | The Bishop of Winchester |
 | Elizabeth I regrants Merdon and lands | 1559 | William Hoby |
-| | 1595 | William Hoby |
+| | 1595 | Giles Hoby |
+| Giles Hoby sells Merdon and keeps life interest in Great Lodge | 1600 | Sir Thomas Clerke |
+| Coachmen‘s quarters built | c. 1605 | Sir Thomas Clerke |
+| | 1606 | William Brock |
+| (Great Lodge leased to Nicholas Peascod for a few years) | 1618 | Miss Anne Brock |
+| | 1626 | John Arundell (husband of Anne Brock |
+| | c. 1628 | Sir Nathanial Napier |
+| Great Lodge reverts to manor owner | 1630
+| | c. 1634 | Gerard Napier |
+| | 1638-9 | Richard Major |
+| Richard Cromwell lives at Merdon | 1649 | Richard Major |
+| Richard Cromwell becomes Lord Protector | 1658 | Richard Major |
+| Richard Cromwell withdraws from Parliament and goes into exile | 1660 | Richard Cromwell |
+| Oliver Cromwell II takes over manor | 1675 | Oliver Cromwell II controls manor |
+| Stables and original coach house built | c. 1680 | Oliver Cromwell II controls manor |
+| Elizabeth and Anne Cromwell claim inheritance of manor | 1705 | Elizabeth and Anne Cromwell |
+| | 1707 | Richard Cromwell |
+| | 1712 | Elizabeth and Anne Cromwell |
+| | 1718 | Sir William Heathcote 1st Bt. |
+| Hursley Park House built | 1721-4 | Sir William Heathcote 1st Bt. |
+| Brew house and well house built | c. 1728 | Sir William Heathcote 1st Bt. |
+| | 1751
+
+
+
+
+
 
 
 
