@@ -1,5 +1,7 @@
 # Merdone - The History of Hursley Park
 
+**Note: This is an (unfinished!) experiment to share a scanned version of the Merdone book.**
+
 Compiled by D Len Peach  
 Edited by Nick Goodall  
 Layout by Grafix Advertising and Design
