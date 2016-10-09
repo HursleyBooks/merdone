@@ -1,4 +1,4 @@
-# HURSLEY PARK’S GROUNDS AND GARDENS
+# Hursley Park's Grounds and Gardens
 
 For centuries, English parks and gardens in
 both landscaped and formal forms have been
