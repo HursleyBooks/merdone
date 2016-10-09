@@ -1,7 +1,7 @@
 # Merdone - The History of Hursley Park
 
 * [Hursley Village](hursley-village.md)
-* Time Chart 
+* [Time Chart](time-chart.md)
 * Chronological List of Events
 * Map
 
