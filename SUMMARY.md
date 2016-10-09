@@ -3,7 +3,7 @@
 * [Hursley Village](hursley-village.md)
 * [Time Chart](time-chart.md)
 * [Chronological List of Events](events.md)
-* Map
+* [Map](map.md)
 
 * [Merdon Castle Site up to 1441](merdon-castle/README.md)
  - [Earliest History](merdon-castle/earliest-history.md)
