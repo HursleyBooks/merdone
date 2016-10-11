@@ -29,7 +29,7 @@
    * [The Cooper Family](house-coopers/cooper-family.md#cooper-family)
    * [The Building alterations](house-coopers/building-alterationsmd.md)
    * [The Oak Panelling](house-coopers/oak-panellingmd.md)
-   * [A Show House](house-coopers/show-house.md)
+   * [A Show House](house-coopers/show-housemd.md)
    * [Other Buildings](house-coopers/other-buildings.md)
    * [The Social Order](house-coopers/social-order.md)
 * Hursley Park during the Great War 1914 - 1918
