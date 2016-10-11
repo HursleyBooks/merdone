@@ -1,2 +1,2 @@
-# The Social Order
+## The Social Order
 
