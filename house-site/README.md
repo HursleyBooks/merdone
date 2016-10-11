@@ -1,8 +1,5 @@
 # Hursley Park House Site 1413-1718
 
-![Drawing](great-lodge.jpg)
-*North elevation th Great Lodge c. 1725*
-
 ## The 'Logge'
  
 The history of buildings on the site of Hursley
@@ -44,6 +41,11 @@ to house estate workers, T Block today).
 
 
 ## The Great Lodge (The Old Lodge)
+
+
+![Drawing](great-lodge.jpg)
+*North elevation th Great Lodge c. 1725*
+
 
 After the Merdon estate was surrendered to
 the crown in 1552, Edward VI granted the
