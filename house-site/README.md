@@ -42,7 +42,8 @@ that it could have stood in the area of the
 present well house and bothy (a small cottage
 to house estate workers, T Block today).
 
-## THE GREAT LODGE (THE OLD LODGE)
+
+## The Great Lodge (The Old Lodge)
 
 After the Merdon estate was surrendered to
 the crown in 1552, Edward VI granted the
@@ -118,7 +119,7 @@ land at Hursley.
 *Outline of Great Lodge foundations, photographed from the roof of H ursley House in 1976*
 
  
-MERDON MANOR
+## Merdon Manor
 
 Merdon Manor house seems to have come into
 existence between 1552 and 1588 and was
@@ -147,4 +148,51 @@ between the tenant farmers (copyholders) and
 *Map of Hursley deer park, 1588. (North is to the right.)*
 
 
-**Next: Page 27**
+**[Page 27 missing]**
+
+
+## The Cromwell Family
+
+**[Page 28]
+
+
+Dorothy Cromwell (wife of Richard)
+
+monarchy. Because of the continuing hostility
+and his considerable debts, he withdrew from
+Parliament on 25 May 1659, and lived in
+quiet seclusion at Hursley before departing for
+France a year later. Accounts differ as to
+where he lived with his wife on the continent
+under the name John Clerke. Mrs Cromwell’s
+portrait came to light in France in the 1970s.
+During his twenty years in exile he wrote
+numerous letters to his family, and was
+greatly concerned over their welfare. His wife
+died in 1674/76, which added to his sadness at
+being in exile. He was long regarded as a
+dangerous person by the government, who in
+1671 made a strict search for him ‘but without
+avail’. So Richard’s cover must have been
+effective.
+
+
+Richard Cromwell, Lord Protector c. 1658
+
+
+After the death of Dorothy Cromwell, their
+eldest son Oliver ‘claimed Merdon in right of
+her marriage settlement’ and took possession of
+the estate. It seems that Oliver Cromwell II
+was a rather spineless character with a
+butterﬂy personality, who managed to degrade
+further the poor relationships with the
+copyholders.
+
+His father Richard probably thought that,
+since young Oliver had set his mind on
+Merdon, this might be the opportunity he
+
+ 
+
+
