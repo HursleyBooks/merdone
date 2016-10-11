@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Preface](README.md#preface)
 * [Hursley Village](hursley-village.md)
 * [Time Chart](time-chart.md)
 * [Chronological List of Events](events.md)
@@ -40,14 +40,14 @@
    * [Lady Cooper’s Own Hospital](great-war/lady-coopers-hospital.md)
    * [Hursley Aerodrome](great-war/hursley-aerodrome.md)
    * [Sir George Cooper Bt](great-war/george-cooper.md)
-* Hursley Park during World War II and Vickers 1939 - 1956
-   * A Temporary Home for Many
-   * Vickers Supermarine
-   * A New Home for the Spitﬁre Design Team
-   * Problems Resolved
-   * A Tally of the Aircraft Designed at Hursley
-   * Reminiscences, the Source of Legends
-   * HMS Hursley
+* [Hursley Park during World War II and Vickers 1939 - 1956](world-war-two/temporary-home.md)
+   * [A Temporary Home for Many](world-war-two/temporary-home.md#temporary-home)
+   * [Vickers Supermarine](world-war-two/vickers-supermarine.md)
+   * [A New Home for the Spitﬁre Design Team](world-war-two/spitfire-design-team.md)
+   * [Problems Resolved](world-war-two/problems-resolved.md)
+   * [A Tally of the Aircraft Designed at Hursley](world-war-two/aircraft.md)
+   * [Reminiscences, the Source of Legends](world-war-two/reminiscences.md)
+   * [HMS Hursley](world-war-two/hms-hursley.md)
 * [The Changed Order](changed-ordermd.md)
 * [Tunnels at Hursley](tunnels.md)
 * [Hursley Park’s Grounds and Gardens](gardens.md)
