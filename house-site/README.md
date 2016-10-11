@@ -153,7 +153,7 @@ between the tenant farmers (copyholders) and
 
 ## The Cromwell Family
 
-**[Page 28]
+**[Page 28...]**
 
 
 Dorothy Cromwell (wife of Richard)
