@@ -32,14 +32,14 @@
    * [A Show House](house-coopers/show-housemd.md)
    * [Other Buildings](house-coopers/other-buildings.md)
    * [The Social Order](house-coopers/social-order.md)
-* Hursley Park during the Great War 1914 - 1918
-   * The 8th Division
-   * The 28th Division
-   * The United States
-   * Military Hospital
-   * Lady Cooper’s Own Hospital
-   * Hursley Aerodrome
-   * Sir George Cooper Bt
+* [Hursley Park during the Great War 1914 - 1918](great-war/8th-division.md)
+   * [The 8th Division](great-war/8th-division.md#8th-division)
+   * [The 28th Division](great-war/28th-division.md)
+   * [The United States](great-war/united-states.md)
+   * [Military Hospital](great-war/military-hospital.md)
+   * [Lady Cooper’s Own Hospital](great-war/lady-coopers-hospital.md)
+   * [Hursley Aerodrome](great-war/hursley-aerodrome.md)
+   * [Sir George Cooper Bt](great-war/george-cooper.md)
 * Hursley Park during World War II and Vickers 1939 - 1956
    * A Temporary Home for Many
    * Vickers Supermarine
