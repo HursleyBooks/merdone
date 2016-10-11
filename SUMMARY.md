@@ -6,7 +6,7 @@
 * [Chronological List of Events](events.md)
 * [Map](map.md)
 * [Merdon Castle Site up to 1441](merdon-castle/README.md)
-   * [Earliest History](merdon-castle/earliest-history.md)
+   * [Earliest History](merdon-castle/README.md#earliest-history)
    * [The Saxon Period](merdon-castle/saxon-period.md)
    * [Stephen-Matilda Wars](merdon-castle/stephen-matilda-wars.md)
    * [The Castle](merdon-castle/the-castle.md)
@@ -14,11 +14,10 @@
    * [Pipe Rolls](merdon-castle/pipe-rolls.md)
 * [Hursley Park House Site 1413 - 1718](house-site/README.md)
    * [The ‘Logge’](house-site/README.md#the-logge)
-   * [The Great Lodge (The Old Lodge)](house-site/README.md#the-great-lodge-the-old-lodge)
-   * [Merdon Manor](house-site/README.md#merdon-manor)
-   * [The Cromwell Family](house-site/README.md#the-cromwell-family)
+   * [The Great Lodge (The Old Lodge)](house-site/great-lodge.md)
+   * [Merdon Manor](house-site/merdon-manor.md)
+   * [The Cromwell Family](house-site/cromwell-family.md)
 * Hursley Park House 1718 - 1902 (The Heathcote Era)
-* Hursley Park House (1720 - 1821)
    * The Heathcotes
    * Sir William Heathcote’s
    * Descendants
