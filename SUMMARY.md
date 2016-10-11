@@ -14,12 +14,12 @@
    * [Pipe Rolls](merdon-castle/pipe-rolls.md)
 * [Hursley Park House Site 1413 - 1718](house-site/README.md)
    * [The ‘Logge’](house-site/README.md#the-logge)
-   * The Great Lodge (The Old Lodge)
-   * Merdon Manor
-   * The Cromwell Family
+   * [The Great Lodge (The Old Lodge)](house-site/README.md#the-great-lodge-the-old-lodge)
+   * [Merdon Manor](house-site/README.md#merdon-manor)
+   * [The Cromwell Family](house-site/README.md#the-cromwell-family)
 * Hursley Park House 1718 - 1902 (The Heathcote Era)
+* Hursley Park House (1720 - 1821)
    * The Heathcotes
-   * Hursley Park House (1720 - 1821)
    * Sir William Heathcote’s
    * Descendants
    * Hursley Park House (1821 - 1902)
