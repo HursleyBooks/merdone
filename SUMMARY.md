@@ -12,7 +12,7 @@
    * [The Castle](merdon-castle/the-castle.md)
    * [Castle Remains](merdon-castle/castle-remains.md)
    * [Pipe Rolls](merdon-castle/pipe-rolls.md)
-* Hursley Park House Site 1413 - 1718
+* [Hursley Park House Site 1413 - 1718](house-site/README.md)
    * The ‘Logge’
    * The Great Lodge (The Old Lodge)
    * Merdon Manor
