@@ -25,7 +25,7 @@
    * [The Fifth Baronet](house-heathcotes/fifth-baronet.md)
    * [John Keble and Friends](house-heathcotes/john-keble.md)
    * [A Change of Owners](house-heathcotes/change-of-owners.md)
-* [Hursley Park House 1902 - 1940 (The Cooper Era)](house-coopers/cooper-family.md)
+* [Hursley Park House 1902 - 1940 (The Cooper Era)](house-coopers/cooper-familymd.md)
    * [The Cooper Family](house-coopers/cooper-family.md#cooper-family)
    * [The Building alterations](house-coopers/building-alterations.md)
    * [The Oak Panelling](house-coopers/oak-panelling.md)
