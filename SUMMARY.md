@@ -13,7 +13,7 @@
    * [Castle Remains](merdon-castle/castle-remains.md)
    * [Pipe Rolls](merdon-castle/pipe-rolls.md)
 * [Hursley Park House Site 1413 - 1718](house-site/README.md)
-   * [The ‘Logge’](house-site/README.md#logge)
+   * [The ‘Logge’](house-site/README.md#the-logge)
    * The Great Lodge (The Old Lodge)
    * Merdon Manor
    * The Cromwell Family
