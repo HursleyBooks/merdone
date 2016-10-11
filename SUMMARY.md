@@ -20,7 +20,7 @@
 * [Hursley Park House 1718 - 1902 (The Heathcote Era)](house-heathcotes/the-heathcotes.md)
    * [The Heathcotes](house-heathcotes/the-heathcotes.md#the-heathcotes)
    * [Hursley Park House (1720 - 1821)](house-heathcotes/hursley-park-house-1720-1821.md)
-   * [Sir William Heathcote’s Descendants](house-heathcotes/william-heathcotes-descendants
+   * [Sir William Heathcote’s Descendants](house-heathcotes/william-heathcotes-descendants.md)
    * [Hursley Park House (1821 - 1902)](house-heathcotes/hursley-park-house-1821-1902.md)
    * [The Fifth Baronet](house-heathcotes/fifth-baronet.md)
    * [John Keble and Friends](house-heathcotes/john-keble.md)
