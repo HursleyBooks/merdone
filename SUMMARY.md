@@ -48,8 +48,8 @@
    * [A Tally of the Aircraft Designed at Hursley](world-war-two/aircraft.md)
    * [Reminiscences, the Source of Legends](world-war-two/reminiscences.md)
    * [HMS Hursley](world-war-two/hms-hursley.md)
-* [The Changed Order](changed-ordermd.md)
+* [The Changed Order](changed-order.md)
 * [Tunnels at Hursley](tunnels.md)
 * [Hursley Park’s Grounds and Gardens](gardens.md)
-* [Bibliography](bibliographymd.md)
+* [Bibliography](bibliography.md)
 
