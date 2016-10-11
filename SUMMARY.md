@@ -27,7 +27,7 @@
    * [A Change of Owners](house-heathcotes/change-of-owners.md)
 * [Hursley Park House 1902 - 1940 (The Cooper Era)](house-coopers/cooper-familymd.md)
    * [The Cooper Family](house-coopers/cooper-family.md#cooper-family)
-   * [The Building alterations](house-coopers/building-alterations.md)
+   * [The Building alterations](house-coopers/building-alterationsmd.md)
    * [The Oak Panelling](house-coopers/oak-panelling.md)
    * [A Show House](house-coopers/show-house.md)
    * [Other Buildings](house-coopers/other-buildings.md)
