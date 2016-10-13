@@ -9,6 +9,10 @@ Lady Heathcote sold the whole estate at
 Hursley to Joseph W Baxendale for £150,000.
 
 
+![Photo](hursley-hunt.jpg)
+*Hursley Hunt by Castle Tower (c. 1900).  
+The gentleman in the top hat is Joseph Baxendale, the then owner of Hursley Park.*
+
 
 At that time, Joseph Baxendale was senior
 partner and principal proprietor of Pickfords
@@ -34,8 +38,3 @@ drain of investments in the Trans Siberian
 Railway. Joseph Baxendale decided that he
 could no longer maintain four estates, and
 Hursley was the one to be sold.
-
-
-![Photo](hursley-hunt.jpg)
-*Hursley Hunt by Castle Tower (c. 1900).  
-The gentleman in the top hat is Joseph Baxendale, the then owner of Hursley Park.*
