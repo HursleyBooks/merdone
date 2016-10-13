@@ -56,6 +56,11 @@ vestibule’s design; some ﬁve steps ascended
 from the vestibule to the ground floor of the
 house.
 
+
+![Plan](ground-floor-plan-1821.jpg)
+*Ground floor plan (1821)*
+
+
 The best descriptions of the inside of Hursley
 Park House come from nineteenth century
 biographies in which several writers speak of
