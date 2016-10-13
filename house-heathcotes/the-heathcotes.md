@@ -1,5 +1,9 @@
 # Hursley Park House 1718 - 1902 (The Heathcote Era)
 
+
+![Photo](first-floor-gallery.jpg)
+*The first ﬂoor gallery c. 1901*
+
 ## The Heathcotes
 
 The Heathcotes came from Chesterﬁeld in
