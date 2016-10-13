@@ -64,3 +64,31 @@ house.
 The best descriptions of the inside of Hursley
 Park House come from nineteenth century
 biographies in which several writers speak of
+the house as being ‘Well lit’, ‘unostentatious’,
+‘warm and comfortable’, and having ‘an
+atmosphere that was happy and stable’.
+Published descriptions of the reception rooms
+are vague, but they do convey a feeling of
+comfort and warmth: they mention the warm
+oak panelling, the many paintings (many still
+surviving in the ownership of the present
+tenth baronet), and the open ﬁres held in
+elegant andirons. In accounts of the library,
+several writers refer to the ‘many books bound
+in Hursley green’.
+
+Each floor continued to perform the same
+broad functions as before, except that the
+state bedrooms and dressing room were now
+on the south side of the ﬁrst ﬂoor along with
+other principal bedrooms. The photograph of
+the ﬁrst ﬂoor gallery on page 44, taken in
+1901, shows many of the Heathcote
+furnishings including an Italian harpsichord
+of 1721 featured in one of the family
+paintings. No structural changes are recorded
+for the second floor. The house existed in this
+form from about 1821 until it was enlarged in
+1902\. The present day excellence of the library
+and other original ﬁttings speak well of the
+original craftsmanship and quality of materials.
