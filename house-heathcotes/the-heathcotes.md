@@ -4,6 +4,18 @@
 ![Photo](first-floor-gallery.jpg)
 *The first ﬂoor gallery c. 1901*
 
+
+![Photo](north-drawing-room.jpg)
+*North drawing room*
+
+
+![Photo](billard-room-1900.jpg)
+*Billard room c. 1900*
+
+
+*South drawing room*
+
+
 ## The Heathcotes
 
 The Heathcotes came from Chesterﬁeld in
