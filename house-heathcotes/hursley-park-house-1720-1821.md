@@ -192,3 +192,7 @@ well and brew houses.
 
 ![Plan](ground-floor-plan.jpg)
 *Ground floor plan (1724)*
+
+
+![Drawing](hursley-house-1819.jpg)
+*South elevation of Hursley House, 1819*
