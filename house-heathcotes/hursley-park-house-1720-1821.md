@@ -50,7 +50,7 @@ seems to have been achieved.
 This Hursley Park House forms the heart of
 the present house: the two wings, porte-
 cochere and conservatory were added in 1902-
-1903. (A porte-cochere is a roofed structure
+1903\. (A porte-cochere is a roofed structure
 extending from the entrance of a building to
 shelter from the weather those getting in and
 out of vehicles.) Although built during the
