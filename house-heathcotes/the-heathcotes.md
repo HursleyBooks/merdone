@@ -13,6 +13,7 @@
 *Billard room c. 1900*
 
 
+![Photo](south-drawing-room.jpg)
 *South drawing room*
 
 
