@@ -106,7 +106,7 @@ rooms in the centre of the house and some
 accommodation for male staff.
 
 
-![Plan](lower-ground-floor-plan.jpg)
+![Plan](lower-ground-floor-plan-1724.jpg)
 *Lower ground floor plan (1724)*
 
 The ground ﬂoor or ‘principal storey’ was very
@@ -190,7 +190,7 @@ work area was replaced in about 1728 by the
 well and brew houses.
 
 
-![Plan](ground-floor-plan.jpg)
+![Plan](ground-floor-plan-1724.jpg)
 *Ground floor plan (1724)*
 
 
