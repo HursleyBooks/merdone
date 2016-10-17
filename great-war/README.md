@@ -1,3 +1,5 @@
+# Hursley Park during the Great War 1914 - 1918
+
 As in most English villages, the only evidence
 today of the intrusion of the First World War
 into Hursley’s life is the war memorial sited
@@ -20,14 +22,14 @@ Cooper’s Hospital which was housed in
 Hursley House itself. Most extraordinary of
 all is that all evidence of Hursley Park
 Aerodrome, used by the Royal Flying Corps
-
- 
-
-Hursley war memorial
-
 which became the Royal Air Force at the end
 of the war, has completely vanished, and its
 only evidence is in archived papers.
+
+
+![Photo](hursley-war-memorial.jpg)
+*Hursley war memorial*
+
 
 The circular stone seat by Southampton
 Lodge is made up of six segments, and the
@@ -44,19 +46,15 @@ towards Southampton Docks.
 The legend on the principal table reads as
 follows:
 
- 
+> ERECTED BY SIR GEORGE COOPER BT. TO
+> COMMEMORATE THE ASSEMBLING IN HURSLEY
+> PARK IN SEPTEMBER AND OCTOBER 1914 AND
+> THE MARCHING THROUGH THIS GATE ON 4TH
+> NOVEMBER OF THE 8TH DIVISION
+> MAJOR GENERAL F.J. DAVIES COMdng,
+>
+> TO EMBARK FOR FRANCE
 
-ERECTED BY SIR GEORGE COOPER BT. TO
-COMMEMORATE THE ASSEMBLING IN HURSLEY
-PARK IN SEPTEMBER AND OCTOBER 1914 AND
-THE MARCHING THROUGH THIS GATE ON 4TH
-NOVEMBER OF THE 8TH DIVISION
-MAJOR GENERAL F.J. DAVIES COMdng,
 
-TO EMBARK FOR FRANCE
-
- 
-
-   
-
-Memorial to the 8th Division 1914
+![Photo](memorial-to-8th-division.jpg)
+*Memorial to the 8th Division 1914*
