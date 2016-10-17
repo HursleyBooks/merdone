@@ -15,6 +15,7 @@ The rest of the work force was not forgotten:
 every man received a money gift.
 
 
+![Photo](main-hall-ne-1909.jpg)
 *North-east corner of main hall, 1909*
 
 
@@ -42,6 +43,7 @@ The ﬂoor plans (on pages 55 to 58) give the
 room identiﬁcations.
 
 
+![Photo](boudoir-fireplace-1909.jpg)
 *The Boudoir ﬁreplace, 1909*
 
 
@@ -49,3 +51,13 @@ In June 1905, the King’s birthday honours list
 included the name of G A Cooper Esq, of
 Hursley Park. According to newspaper
 cuttings of the day, Sir George and Lady
+Cooper received a tremendous welcome home
+with a handsome arch of evergreens and
+bunting at the Winchester Lodge entrance. It
+is said that 300 to 400 people assembled there
+with some 200 estate employees waiting
+inside to greet the new baronet.
+
+
+![Photo](drawing-room-1909.jpg)
+*Drawing room, 1909*
