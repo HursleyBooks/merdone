@@ -1,4 +1,4 @@
-## Military Hospital
+## The United States Military Hospital
 
 
 ![Photo](military-hospital-builders.jpg)
