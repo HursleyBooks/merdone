@@ -182,18 +182,291 @@ stops, had to adjust to a 16 mile non-stop trip.
 There were often two buses running neck and
 neck up the Chandler’s Ford Road to try to get
 to the ‘S’ bend ﬁrst. By contrast, there were
+foggy nights when two passengers walked in
+front to lead the bus along the Woolston to
+Netley portion, making that a long, tedious
+trip. One evening a design staff member fell
+asleep in the washroom, missed his bus to
+Eastleigh, and had to, wait until midnight
+before a Supermarine driver was able to give
+him a lift home. Only the most senior staff
+had the privilege of motor cars, with the
+essential petrol coupons to run them.
 
 
 ![Photo](christmas-lunch.jpg)
 *Executive staff Christmas lunch. Photo: C R Russell.*
 
-83
 
- 
+Reg Turley, the canteen manager, had been
+recruited from Lowman’s the Bakers in
+Southampton. He was in charge of the
+provision of daily lunch requirements. There
+were two lunch sittings and two dining rooms.
+The principal dining room was reserved for
+senior members of staff. There the difference
+was more evident in the decor and aperitifs
+than in the food. This two-level system was
+the norm in British Industry at the time.
+
+Between the years of 1940 and 1957 the
+rooms of the House were used for many
+purposes, and here is a brief description of
+some of their various functions and uses
+starting with the lower ground ﬂoor:
+
+The original wine stores provided cool, dark
+facilities for the photographic department,
+before their eventual move into the stable 10ft,
+headed by a Mr Burr.
+
+Successful communications were essential to
+the Supermarine management and the
+telephone exchange was a vital link between
+the dispersal units. They also provided a
+direct line to the R.A.F. so that a member of
+the Observation Corps here could monitor the
+movement of enemy aircraft.
+
+Mrs Edwards was Lady Cooper’s cook, and
+several of the Supermarine staff, when
+required to work all night to solve urgent
+problems, were thankful for the constant
+supply of her renowned ‘stock pot’. Another
+revered cook was Mrs Cocket, who prepared
+supper for the handful of design staff on ﬁre-
+watch duty every night. She could work
+miracles with a potato, a bit of cheese and
+some dried egg.
+
+The metallurgical laboratory was initially
+housed in the former linen store where the
+numerous cupboards provided storage for
+their many chemicals.
+
+On the ground ﬂoor the rooms were used as
+follows:
+
+The library contained a wealth of books and
+was kept locked for the period that Lady
+Cooper lived on in the House. Later, this room
+was taken over by the technical library which
+provided the Supermarine staff with a most
+valuable service when they were involved in
+recording alterations and improvements to the
+wartime aircraft.
+
+The ballroom and winter garden (conservatory)
+were the original quarters for the design staff,
+but as this team expanded it was necessary to
+build additional accommodation in the Park.
+By the end of 1941 a purpose-built drawing
+ofﬁce (X Block until 1994) together with ﬁve
+prefabricated huts were erected to the east of
+the House, affording easy access to the
+executive staff via the conservatory. The ﬁrst
+hut was used by the electrical design team,
+the second one was home for the technical
+publications department under Gerry Gingell.
+
+The ﬂying boats design team under the
+direction of Harry Phillips was housed in the
+third hut, which was next to the layout and
+model shop after they had moved across from
+the stable loft. The end hut was used by the
+hydraulics design section. Approximately 25
+to 30 staff were accommodated in each hut.
+The huts are remembered for being
+excessively cold in winter and hot in summer.
 
 
+![Photo](vickers-senior-staff.jpg)
+*Vickers senior staff group, with Sir Stafford Cripps (seated third from left, front row).*
 
- 
+
+Joe Smith, the chief designer and natural
+successor to the designer of the Spitﬁre, R J
+Mitchell, had his ofﬁce in the former business
+room, with a view across the sweeping lawns
+to the south. He was a man respected from
+the shop ﬂoor upwards, and although he
+would never claim Mitchell’s genius, he was
+without doubt the right man to head the
+Spitﬁre’s development.
+
+The executive dining room differed from the
+mess rooms, and in addition to their staff
+lunch they were provided with a bottle of beer.
+The then Duke of Kent was one distinguished
+visitor to be entertained here shortly before
+his death on 25 August 1942. For his visit, the
+maintenance department tried to spruce up
+the surroundings, but discovered each piece of
+restoration required considerably more time
+and effort than ﬁrst envisaged. (The present
+Duke of Edinburgh visited Hursley Park on
+Friday 17 April 1953, accompanied by the 17
+year old Duke of Kent. They toured Chilbolton
+where they witnessed a demonstration of the
+Supermarine Swift, piloted by Dave Morgan,
+and after visiting Hursley Park design ofﬁces
+and the Experimental Hangar, ended the tour
+at the South Marston Works. Sir Stafford
+Cripps also got the VIP treatment when he
+visited Hursley Park, with everything being
+made smart and tidy for the occasion.)
+
+After Lady Cooper vacated the House, her
+suite of rooms on the ﬁrst ﬂoor was occupied
+by the Commercial Manager, the Production
+Manager, Personnel Manager and their
+secretaries. The former William and Mary
+bedroom was allocated to Commander Bird,
+the general manager, and the ofﬁce of
+overseer was occupied by Group Captains
+Perkins and Thompson at different times in
+the Cromwell Dressing Room. Other rooms,
+including the Chinese Bedroom and the
+Azalea Bedroom were used to accommodate
+the Shipping Ofﬁce and the Technical
+Publications Department. Unfortunately,
+during some maintenance and refurbishment
+work the wallpaper in the Chinese Bedroom
+Was thought to look shabby, and was
+consequently given a coat of paint. The
+maintenance staff had not realised that it was
+silk.
+
+One resident Technical Ofﬁcer, Kenneth
+Knell, who was also a pilot, and his assistant
+Stuart Mosey established a reputation for
+opening many doors to establish important
+business contacts and overcome obstacles, a
+gift shared by Arnold Hall, who later became
+Sir Arnold Hall and Chairman of Hawker
+Siddeley Aviation. Stuart Mosey also went to
+Hawker Siddeley at Hamble but as Resident
+Technical Ofﬁcer.
 
 
+![Photo](aerial-photo.jpg)
+*Aerial photo of site.
+Photo: Cambridge University Library.*
 
+
+In a bid never to be caught again with drawings
+so easily destroyed by ﬁre, the garages and coal
+store were re-roofed in massive reinforced
+concrete to Withstand incendiary bombs, and
+this provided a secure drawing and document
+archive as well as some ofﬁces.
+
+The stable block provided very useful
+accommodation and a Belman hangar was
+constructed in the courtyard to house
+facilities, including hydraulics for
+experimental work there. In one corner was
+an inspection pit with a gimbal arrangement
+above to enable the testing of fuel system ﬂow
+rates encountered at certain altitudes and
+tilts.
+
+The metallurgists had a test building where
+they could inspect materials daily for changes
+in appearance brought about by stress and
+corrosion. This building stood approximately
+where the present radio frequency
+interference facility is to the south west of the
+House. This building was simply a low
+corrugated steel roof supported on an angle-
+iron frame, with no sides. The chemical,
+metallurgical laboratory and photographic
+department were moved to the ground floor of
+the stables when they were vacated by the
+model shop. Subsequently the photographic
+activity was moved into the loft to make room
+for a test facility covering hydraulic, electrical
+and fuel systems which was later expanded to
+take in part of the Belman hangar where the
+gimbal pit was provided. The area between
+the hangar and the stable block was roofed
+over to house a high-altitude test chamber
+with its associated pumps.
+
+
+![Photo](experimental-hanger.jpg)
+*Experimental hangar from the east. Photo: Cambridge University Library.*
+
+
+The entertainment hall that once stood
+behind the stables on the south side was used
+as a machine shop. It seems that oil from the
+machines soaked in and ruined the ﬂoor and
+vibration made the walls unstable. For the
+once immaculate hall, this was a sad end to a
+dance ﬂoor which was considered to be the
+best for some twenty miles around. After
+Vickers’ tenure it was in such a poor state
+that it was demolished for safety.
+
+Like the drawing ofﬁce, the experimental
+hangar was rapidly constructed under a line
+of large trees close to the Southampton Lodge
+entrance in 1942, and enabled the _
+experimental shops to be moved there from
+their makeshift accommodation in the stable
+block. This building expanded, with several
+extensions for a canteen and other facilities.
+This whole area enabled full sized prototypes
+and aircraft to be worked on with
+unaccustomed comfort. One characteristic of
+working here was the effect spilt hydraulic
+ﬂuid had on crepe-soled shoes, much in vogue
+at the time, as it caused the sole to expand to
+almost double the footprint.
+
+
+![Photo](experimental-hanger-interior.jpg)
+*Experimental hangar interior. Photo: Cambridge University Library.*
+
+
+The building to the east of the House was the
+drawing ofﬁce, a use that continued for a
+while with the new tenants (IBM) from 1958,
+and was still remembered by those with more
+than twenty years of service with IBM in
+1990. There was a hangar-type building near
+or where the present RFI laboratory stands.
+This was used as a mock-up shop for the
+Attacker aircraft. By necessity, the
+administration spilled over into the village,
+and other Cooper properties were taken over.
+Southend House, for example, acquired some
+prefabricated huts in the grounds, to
+accommodate the whole accounts section in
+quite an efﬁcient operation, although the way
+the wage packets were carried through the
+Village to the House and experimental hangar,
+would today cause even the mildly security
+conscious to break out in a cold sweat! As
+aircraft production receded in the post-war
+period, the Vickers organisation began to
+discuss plans to relocate their personnel to
+South Marston, near Swindon, Wiltshire, a
+move which Joe Smith and others strongly
+resisted, and it was only after his death on 20
+
+February 1956 that Vickers ﬁnally undertook
+the controversial move from Hursley. A
+number of people did not relish moving to
+Swindon and left the ﬁrm, others tried the
+move but did not like it and left. The
+accompanying photograph of hooded pall—
+bearers carrying the cofﬁn of ‘Vickers
+Armstrongs Supermarine Hursley Park’, at a
+company social function of the time, eloquently
+sums up the feelings of the Hursley staff.
+
+
+![Photo](pall-bearers.jpg)
+*Pall bearers making a point. (The Pier Ballroom, Southampton). Photo: C R Russell.*
