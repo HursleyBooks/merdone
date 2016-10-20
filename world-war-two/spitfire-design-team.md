@@ -157,6 +157,7 @@ investigating the theft of Joe Smith’s
 imaginary bicycle.
 
 
+![Photo](busses.jpg)
 *Buses outside Hursley Park House. Photo: E B Morgan.*
 
 
@@ -435,7 +436,7 @@ drawing ofﬁce, a use that continued for a
 while with the new tenants (IBM) from 1958,
 and was still remembered by those with more
 than twenty years of service with IBM in
-1990. There was a hangar-type building near
+1990\. There was a hangar-type building near
 or where the present RFI laboratory stands.
 This was used as a mock-up shop for the
 Attacker aircraft. By necessity, the
